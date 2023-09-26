@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Traffic_Light_Kotlin" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+
+    <style name="Theme.Traffic_Light_Kotlin" parent="Base.Theme.Traffic_Light_Kotlin" />
+</resources>
